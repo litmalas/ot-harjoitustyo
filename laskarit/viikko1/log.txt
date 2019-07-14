@@ -1,0 +1,71 @@
+commit 3fd28448dd28011d0a8fbf041582a085e07010ee
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 05:34:58 2019 +0300
+
+    poista tiedosto file1 ja uudelleennimeä tiedosto file2 tiedostoksi file22
+
+commit 67537b21f9c36b486b824ea24b6813456e238668
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 05:26:41 2019 +0300
+
+    luo repositiosi sisälle hakemisto tiedostoja ja hakemiston sisälle tiedostot file1, file2 ja file3
+
+commit 3d1b503ba37caea60608e8b619b4cfb5fa7c5edb
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 05:11:36 2019 +0300
+
+    Tee jotain muutoksia tiedostoihin eka.txt ja kolmas.txt
+
+commit 81f20c25773fef7f1a306c11c250cd77b4c353d1
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 05:04:35 2019 +0300
+
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+
+commit fcaa97e8897f309ac67bd0c0866c2195daa1ff04
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 04:52:00 2019 +0300
+
+    Poista tiedosto toinen.txt
+
+commit 81baea30366e31207c887276895ceceab8c1de64
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 04:47:35 2019 +0300
+
+    Poista nyt osa tiedoston tekstistä ja lisää tiedostoon hieman lisää tekstiä
+
+commit 496f014f901a3cc9b06d3f819d5145b70def6896
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 04:45:55 2019 +0300
+
+    Kopioi tiedostoon tiedosto.txt jostain paljon tekstiä ja commitoi tiedosto
+
+commit b8bdcf458688282d2b5a699157b58b4ab867c2a9
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 04:30:55 2019 +0300
+
+    Luo hakemisto stuff ja sen sisälle jokin tiedosto
+
+commit 8d3f953f844f65a91b9cb48787fe4990b640bce9
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 04:29:23 2019 +0300
+
+    Muuta tiedostojen toinen.txt ja kolmas.txt sisältöä ja commitoi muutokset
+
+commit 5d01de8d22eaab645b18e65c78f30c607aa1cf8a
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 04:25:21 2019 +0300
+
+    kolmas.txt luotu
+
+commit 6dd282865916ad515acb37074619e1c99e983944
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 04:18:31 2019 +0300
+
+    muutos ja lisäys
+
+commit 94229c0fc0c7614e9b7fca61e91f81c6181c39f9
+Author: Lasse Litmanen <Lasse.Litmanen@hotmail.fi>
+Date:   Fri Jul 12 04:14:13 2019 +0300
+
+    tiedosto.txt luotu
